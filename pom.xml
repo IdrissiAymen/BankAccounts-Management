@@ -8,11 +8,11 @@
         <version>4.0.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>ma.youssef</groupId>
-    <artifactId>BankAccount_Management_Backend</artifactId>
+    <groupId>ma.aymen</groupId>
+    <artifactId>bankaccount_management_backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>BankAccount_Management_Backend</name>
-    <description>BankAccount_Management_Backend</description>
+    <name>bankaccount_management_backend</name>
+    <description>bankaccount_management_backend</description>
     <url/>
     <licenses>
         <license/>

@@ -1,8 +1,8 @@
 package ma.aymen.bankaccount_management_backend.web;
 
-import ma.youssef.bankaccount_management_backend.dtos.AccountHistoryDTO;
-import ma.youssef.bankaccount_management_backend.dtos.AccountOperationDTO;
-import ma.youssef.bankaccount_management_backend.dtos.BankAccountDTO;
+import ma.aymen.bankaccount_management_backend.dtos.AccountHistoryDTO;
+import ma.aymen.bankaccount_management_backend.dtos.AccountOperationDTO;
+import ma.aymen.bankaccount_management_backend.dtos.BankAccountDTO;
 import ma.aymen.bankaccount_management_backend.exceptions.BankAccountNotFoundEcxeption;
 import ma.aymen.bankaccount_management_backend.services.BankAccountService;
 import org.springframework.web.bind.annotation.*;

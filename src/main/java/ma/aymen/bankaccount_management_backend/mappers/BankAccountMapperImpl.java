@@ -1,13 +1,13 @@
 package ma.aymen.bankaccount_management_backend.mappers;
 
-import ma.youssef.bankaccount_management_backend.dtos.AccountOperationDTO;
-import ma.youssef.bankaccount_management_backend.dtos.CurrentBankAccountDTO;
-import ma.youssef.bankaccount_management_backend.dtos.CustomerDTO;
-import ma.youssef.bankaccount_management_backend.dtos.SavingBankAccountDTO;
-import ma.youssef.bankaccount_management_backend.entities.AccountOperation;
-import ma.youssef.bankaccount_management_backend.entities.CurrentAccount;
+import ma.aymen.bankaccount_management_backend.dtos.AccountOperationDTO;
+import ma.aymen.bankaccount_management_backend.dtos.CurrentBankAccountDTO;
+import ma.aymen.bankaccount_management_backend.dtos.CustomerDTO;
+import ma.aymen.bankaccount_management_backend.dtos.SavingBankAccountDTO;
+import ma.aymen.bankaccount_management_backend.entities.AccountOperation;
+import ma.aymen.bankaccount_management_backend.entities.CurrentAccount;
 import ma.aymen.bankaccount_management_backend.entities.Customer;
-import ma.youssef.bankaccount_management_backend.entities.SavingAccount;
+import ma.aymen.bankaccount_management_backend.entities.SavingAccount;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
 

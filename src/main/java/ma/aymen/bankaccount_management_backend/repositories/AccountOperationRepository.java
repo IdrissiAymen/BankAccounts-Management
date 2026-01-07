@@ -1,6 +1,6 @@
 package ma.aymen.bankaccount_management_backend.repositories;
 
-import ma.youssef.bankaccount_management_backend.entities.AccountOperation;
+import ma.aymen.bankaccount_management_backend.entities.AccountOperation;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

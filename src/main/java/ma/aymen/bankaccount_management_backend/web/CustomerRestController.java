@@ -1,7 +1,7 @@
 package ma.aymen.bankaccount_management_backend.web;
 
 import lombok.AllArgsConstructor;
-import ma.youssef.bankaccount_management_backend.dtos.CustomerDTO;
+import ma.aymen.bankaccount_management_backend.dtos.CustomerDTO;
 import ma.aymen.bankaccount_management_backend.exceptions.CustomerNotFoundEcxeption;
 import ma.aymen.bankaccount_management_backend.services.BankAccountService;
 import org.springframework.web.bind.annotation.*;
